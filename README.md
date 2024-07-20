@@ -1,5 +1,4 @@
 # rock-parking
-# RockParking
 
 RockParking is a Java-based parking lot project that I am setting up to practice all my learning progress. This project follows the principles of Test-Driven Development (TDD), ensuring that only the necessary code is written.
 
