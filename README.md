@@ -6,18 +6,13 @@ RockParking is a Java-based parking lot project that I am setting up to practice
 
 - [About RockParking](#about-rockparking)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Changelog](#changelog)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact Information](#contact-information)
 
 ## About RockParking
 
 RockParking is a Java parking lot project that I am setting up to practice all my learning progress. 
 
-### Criteria: Test Driven Development
+### Criteria: Test-Driven Development
 
 - Only code what's needed
 
@@ -64,6 +59,8 @@ RockParking is a Java parking lot project that I am setting up to practice all m
   - If overstayed, issue a penalty.
 
 
+## Project Structure
+
 ### Designing the Parking Lot System
 
 **Core Entities (Classes) and Their Responsibilities:**
@@ -81,23 +78,5 @@ RockParking is a Java parking lot project that I am setting up to practice all m
 - Java Development Kit (JDK) 8 or higher
 - Apache Maven 3.6.0 or higher
 
-### Steps
-
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/rockparking.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd rockparking
-    ```
-3. Build the project using Maven:
-    ```sh
-    mvn clean install
-    ```
-
-## Usage
-
-To run the application, use the following command after building it:
-```sh
-mvn spring-boot:run
+## ChangeLog
+**All changes committed during project development will be recorded hereon:**
