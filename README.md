@@ -83,11 +83,11 @@ RockParking is a Java parking lot project that I am setting up to practice all m
 - Created a Maven project and added dependencies to POM.XML file (Concepts: PACKAGES, Maven, XML, IntelliJ)
 - iMPLEMENTED A TDD design (CONCEPT: TDD, Test Cases, JUNIT)
 - Implemented OOP (OOP in Java)
+- Practiced Control Flow
 - Implemented a HASH MAP to record car details (Concepts incorporated: Java Collections Framework)
 - CREATED a database for the cars using SQL, MySQL, and text editor POPSQL (CONCEPTS: SQL, RDB, DBMS, RDBMS)
 - - - -- -- --- ---- ----- ------ -------------------------------------------------------------------------------------------------------
 - Testing Data storage in JSON (NoSQL, NRDB) (Upcoming)
-- Practicing Control Flow (Upcoming)
 - Implementing Inheritance and Polymorphism (Upcoming)
 - Exception Handling 
 - HTML, CSS, and JS Implementation (Upcoming)
