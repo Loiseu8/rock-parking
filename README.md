@@ -92,4 +92,5 @@ RockParking is a Java parking lot project that I am setting up to practice all m
 - Exception Handling 
 - HTML, CSS, and JS Implementation (Upcoming)
 - UI Implementation (Upcoming)
+- Incorporating Twilio API (to send alerts to customers regarding ticket validity and penalties)
 
