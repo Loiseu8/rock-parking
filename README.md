@@ -88,9 +88,9 @@ RockParking is a Java parking lot project that I am setting up to practice all m
 - CREATED a database for the cars using SQL, MySQL, and text editor POPSQL (CONCEPTS: SQL, RDB, DBMS, RDBMS)
 - - - -- -- --- ---- ----- ------ -------------------------------------------------------------------------------------------------------
 - Testing Data storage in JSON (NoSQL, NRDB) (Upcoming)
-- Implementing Inheritance and Polymorphism (Upcoming)
+- Implementing Inheritance and Polymorphism 
 - Exception Handling 
-- HTML, CSS, and JS Implementation (Upcoming)
+- HTML, CSS, and JS Implementation 
 - UI Implementation (Upcoming)
 - Incorporating Twilio API (to send alerts to customers regarding ticket validity and penalties)
 
